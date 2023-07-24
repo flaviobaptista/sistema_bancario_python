@@ -238,7 +238,7 @@ Selecionar a opção: 4
 <br>
 <br>
 
-<h1 style="color: #efebce;">Referências e Atribuioções</h1>
+<h1 style="color: #efebce;">Referências e Atribuições</h1>
 
 <details align="left">
   <summary>Clique para visualizar</summary> 
