@@ -15,7 +15,7 @@ Além disso, o sistema foi aprimorado com a implementação de funções modular
 Em suma, o sistema de gerenciamento de conta bancária oferece uma solução prática e funcional para controlar as movimentações financeiras, possibilitando que o usuário realize operações bancárias de forma eficiente e segura.
 <p>
 
-<h2 style="color: #b9faf8;">Funcionalidades</h2>
+<h3 style="color: #b9faf8;">Funcionalidades</h3>
 
 - Depósito: O usuário pode realizar depósitos em sua conta informando o valor desejado.
 
@@ -30,7 +30,7 @@ Em suma, o sistema de gerenciamento de conta bancária oferece uma solução pr�
 - Python 3.x
 <br>
 
-<h1 style="color: #b298dc;">Como Utilizar</h1>
+<h3 style="color: #b298dc;">Como Utilizar</h3>
 
 1. Clone o repositório para o seu computador:
 
