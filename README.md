@@ -29,8 +29,6 @@ Em suma, o sistema de gerenciamento de conta bancária oferece uma solução pr�
 
 - Python 3.x
 <br>
-<br>
-<br>
 
 <h1 style="color: #b298dc;">Como Utilizar</h1>
 
