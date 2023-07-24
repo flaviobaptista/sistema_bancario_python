@@ -26,10 +26,8 @@ Em suma, o sistema de gerenciamento de conta bancária oferece uma solução pr�
 - Limite de Saque: O programa possui um limite máximo de saques diários, que é configurado para 3 saques por padrão. O usuário será informado caso tente realizar um saque após exceder esse limite.
 
 <h2 style="color: #b9faf8;">Requisitos</h2>
-
 - Python 3.x
 <br>
-
 <h3 style="color: #b298dc;">Como Utilizar</h3>
 
 1. Clone o repositório para o seu computador:
